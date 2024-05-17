@@ -4,11 +4,19 @@
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a live Soc / Honeynet in Azure]()https://github.com/Ehyman85/AzureSoc
-- ![Screenshot (2)](https://github.com/Ehyman85/Ehyman85/assets/169102011/230d5f0e-fd84-42f5-b4b5-7465b0ee7c5a)
-![Screenshot (4)](https://github.com/Ehyman85/Ehyman85/assets/169102011/e96c55be-a4b9-4c69-ab5a-35a3fc5a84cd)
-![Screenshot (5)](https://github.com/Ehyman85/Ehyman85/assets/169102011/1ae2bf0a-1392-4557-b8c0-b7f10961a1d9)
-![Screenshot (7)](https://github.com/Ehyman85/Ehyman85/assets/169102011/a6abf5b4-dc36-44a7-90e6-c265bc5d9fba)
-![Screenshot (8)](https://github.com/Ehyman85/Ehyman85/assets/169102011/57f9bd57-155f-4151-91af-2f89470f28f0)
+  - ![Screenshot (1)](https://github.com/Ehyman85/Ehyman85/assets/169102011/6baace2d-1b4f-4bc3-a005-c2be6a9d2f56)
+  - ![Screenshot (2)](https://github.com/Ehyman85/Ehyman85/assets/169102011/548677a5-aef0-423b-852a-c8c946e1ae30)
+  - ![Screenshot (4)](https://github.com/Ehyman85/Ehyman85/assets/169102011/aa39b4ae-b070-434f-88d2-fd4d4ad582d1)
+  - ![Screenshot (5)](https://github.com/Ehyman85/Ehyman85/assets/169102011/0312ec2e-f19e-4caf-9f37-f77ea21bdd0b)
+  - ![Screenshot (7)](https://github.com/Ehyman85/Ehyman85/assets/169102011/fff40776-af31-416c-bd33-ba3bc327b530)
+  - ![Screenshot (8)](https://github.com/Ehyman85/Ehyman85/assets/169102011/d26f04c0-a0ff-417f-af38-917219f80719)
+  - ![Screenshot (13)](https://github.com/Ehyman85/Ehyman85/assets/169102011/5d1bf891-e6f4-45fb-8824-a2ba7ef5bdaf)
+
+
+
+
+
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
